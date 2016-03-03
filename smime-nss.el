@@ -41,7 +41,6 @@
 ;;; Code:
 
 (require 'cl-lib)
-(require 'password-cache)
 
 (defgroup smime-nss nil
   "S/MIME configuration, specific to NSS."
